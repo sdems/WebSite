@@ -8,5 +8,6 @@ namespace WebSite.Backend
 {
     public class Class1
     {
+        private const string GitTest = "GitTests";
     }
 }
