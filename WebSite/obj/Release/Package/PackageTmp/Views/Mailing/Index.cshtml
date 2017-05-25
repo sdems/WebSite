@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" ></script>
+<script>
+    function sendMail() {
+        $.post("SendMail", function (data) {
+            $(".result").html(data);
+        });
+    }
+</script>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Index</title>
+    <input id="btnSubmit" type="submit" value="Submit" onclick="return sendMail();"/>
+    <div class="result"></div>
+</head>
+<body>
+<div>
+</div>
+</body>
+</html>

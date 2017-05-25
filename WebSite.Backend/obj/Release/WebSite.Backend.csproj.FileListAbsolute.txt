@@ -1,0 +1,4 @@
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Release\WebSite.Backend.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Release\WebSite.Backend.pdb
+D:\DEV\Repository\WebSite\WebSite.Backend\obj\Release\WebSite.Backend.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\obj\Release\WebSite.Backend.pdb

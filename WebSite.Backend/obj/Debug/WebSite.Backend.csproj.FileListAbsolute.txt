@@ -1,0 +1,10 @@
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\WebSite.Backend.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\WebSite.Backend.pdb
+D:\DEV\Repository\WebSite\WebSite.Backend\obj\Debug\WebSite.Backend.csprojResolveAssemblyReference.cache
+D:\DEV\Repository\WebSite\WebSite.Backend\obj\Debug\WebSite.Backend.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\obj\Debug\WebSite.Backend.pdb
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\WebSite.Backend.dll.config
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\EntityFramework.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\EntityFramework.xml
+D:\DEV\Repository\WebSite\WebSite.Backend\bin\Debug\EntityFramework.SqlServer.xml

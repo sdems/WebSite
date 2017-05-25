@@ -1,0 +1,93 @@
+h1{
+    font-family: 'Clicker Script', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: xx-large;
+}
+
+p{
+    display: inline;
+    font-weight: bold;
+    font-family: 'Raleway', cursive;
+    font-size: smaller;
+    cursor: default;
+    background-color: white;
+    color: #000000;
+}
+
+p.validate{
+    display: none;
+    background-color: #F8F8F8;
+    color: black;
+    margin: 5% auto 0% auto;
+    border:1px solid #d9d4d4;
+    padding: 1% 2%;
+}
+
+p.unselected{
+    background-color: #F8F8F8;
+    color: #C8C8C8;
+}
+
+#MainContainer{
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#MainContainer div{
+    padding: 1% 2%;
+}
+
+#Triggers p{
+    border:1px solid #d9d4d4;
+    margin: 0% 2%;
+    padding: 1% 2%;
+}
+
+#Events .event{
+    text-align: justify;
+    display: none;
+}
+
+#Events .activ{
+    display: block;
+}
+
+#Events .registerContainer{
+    text-align: center;
+}
+
+#Events .registerContainer p{
+    margin: 0% 2%;
+    padding: 1% 2%;
+    background-color: #F8F8F8;
+}
+
+#Form{
+    margin: auto 0%;
+    display: flex;
+    flex-direction: row;
+}
+
+#Form .choiseReminder{
+    color: #C8C8C8;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+}
+
+#Form p{
+    color: #C8C8C8;
+}
+
+#Form p.activ{
+    color: #000000;
+}
+
+#Form p.choiseDetail{
+}

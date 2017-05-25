@@ -1,0 +1,16 @@
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\WebSite.Tests.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\WebSite.Tests.pdb
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\Castle.Core.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\Moq.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\WebSite.Backend.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\WebSite.Backend.pdb
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\Castle.Core.xml
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\Moq.xml
+D:\DEV\Repository\WebSite\WebSite.Tests\obj\Debug\WebSite.Tests.csprojResolveAssemblyReference.cache
+D:\DEV\Repository\WebSite\WebSite.Tests\obj\Debug\WebSite.Tests.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\obj\Debug\WebSite.Tests.pdb
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\WebSite.Tests.dll.config
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\EntityFramework.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\EntityFramework.xml
+D:\DEV\Repository\WebSite\WebSite.Tests\bin\Debug\EntityFramework.SqlServer.xml
